@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Javascript,Node.js ,Express,React,Figma, MongoDB,PostgreSQL**
 
-- 📫 How to reach me **abdullak1999@gmail.com**
+- 📫 How to reach me **abdullaks1999@gmail.com**
 
 - ⚡ Fun fact **I am quick learner**
 
