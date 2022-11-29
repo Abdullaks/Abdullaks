@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **abdullaks1999@gmail.com**
 
-- ⚡ Fun fact **I am quick learner**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdulla-ks-9b75671a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulla-ks-9b75671a1/" height="30" width="40" /></a>
