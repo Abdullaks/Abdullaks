@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulla KS</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A Full Stack Developer from Kerala</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullaks&label=Profile%20views&color=0e75b6&style=flat" alt="abdullaks" /> </p>
 
