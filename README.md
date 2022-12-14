@@ -3,13 +3,12 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullaks&label=Profile%20views&color=0e75b6&style=flat" alt="abdullaks" /> </p>
 
-- 🔭 I' finished  a NodeJs e-commerce website, [Lap Zone](https://lapzone.live/)
 
-- 🌱 I’m currently learning **React,Redux,MUI**
+- 🌱 I’m currently learning **Angular,MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdullaks?tab=repositories](https://github.com/Abdullaks?tab=repositories)
 
-- 💬 Ask me about **Javascript,Node.js ,Express,React,Figma, MongoDB,PostgreSQL**
+- 💬 Ask me about **Javascript,Node.js ,Express,React,Angular, MongoDB,MySQL,PostgreSQL,Figma**
 
 - 📫 How to reach me **abdullaks1999@gmail.com**
 
