@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullaks&label=Profile%20views&color=0e75b6&style=flat" alt="abdullaks" /> </p>
 
 
-- 🌱 I’m currently learning **Angular,MySQL**
+- 🌱 I’m currently learning **Angular,Threejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdullaks?tab=repositories](https://github.com/Abdullaks?tab=repositories)
 
-- 💬 Ask me about **Javascript,Node.js ,Express,React,Angular, MongoDB,MySQL,PostgreSQL,Figma**
+- 💬 Ask me about **Javascript,Node.js ,Express,React,Threejs,Angular, MongoDB,MySQL,PostgreSQL,Figma**
 
 - 📫 How to reach me **abdullaks1999@gmail.com**
 
