@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullaks&label=Profile%20views&color=0e75b6&style=flat" alt="abdullaks" /> </p>
 
 
-- 🌱 I’m currently learning **Three.js,d3.js**
+- 🌱 I’m currently learning **Next.js,Nest.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdullaks?tab=repositories](https://github.com/Abdullaks?tab=repositories)
 
