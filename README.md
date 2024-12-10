@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Javascript,Node.js ,Express,React,Three.js,Angular, MongoDB,MySQL,PostgreSQL,Figma**
 
-- 📫 How to reach me **abdullaks1999@gmail.com**
+- 📫 How to reach me **abdullaks7787@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
